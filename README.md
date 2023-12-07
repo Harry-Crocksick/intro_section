@@ -33,7 +33,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 - Live Site URL: [Deployed site URL](https://marn-intro-section.netlify.app/)
 
 ## My process
-I used React and TailwindCSS to create this challenge. I used **Popover** from [@headlessui/react](https://headlessui.com/) for desktop and mobile size navigation bar's dropdown.
+I used React and TailwindCSS to create this challenge. I used **Popover** from [@headlessui/react](https://headlessui.com/react/popover) for desktop and mobile size navigation bar's dropdown.
 and used `useState` react hook to implement open/close function for Hamburger menu.
 
 ### Built with
